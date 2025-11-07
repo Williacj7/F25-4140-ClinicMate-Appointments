@@ -72,6 +72,7 @@ export default function ScheduleAppointmentPage() {
         </form>
       </main>
       <Footer />
+      
     </>
-  );
+  ); 
 }
